@@ -1,6 +1,6 @@
-module github.com/davidldawes/ship-ui
+module github.com/davidldawes/cepheus-ship-ui
 
-go 1.15
+go 1.18
 
 require (
 	fyne.io/fyne v1.3.3
