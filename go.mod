@@ -1,4 +1,4 @@
-module github.com/davidldawes/cepheus-ship-ui
+module github.com/DavidLDawes/cepheus
 
 go 1.18
 
